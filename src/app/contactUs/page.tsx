@@ -48,12 +48,14 @@ const ContactUs = () => {
               align="center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
+              
             >
-              Addis Ababa, Ethiopia
+              Addis Ababa,Ethiopia,
               <br />
-              Meskel Flower Road,
+              Haile Gebre Silase  St.
               <br />
-              Near Dreamliner Hotel
+              Noah City Point building 4th floor
+             
             </Text>
           </Card>
           <Card
