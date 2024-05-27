@@ -36,6 +36,7 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
+              // @ts-ignore
               align="center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
@@ -43,6 +44,7 @@ const ContactUs = () => {
               Address
             </Title>
             <Text
+            // @ts-ignore
               align="center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
@@ -66,6 +68,7 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
+              // @ts-ignore
               align="center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
@@ -73,6 +76,7 @@ const ContactUs = () => {
               Phone Number
             </Title>
             <Text
+            // @ts-ignore
               align="center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
@@ -95,6 +99,7 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
+              // @ts-ignore
               align="center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
@@ -102,6 +107,7 @@ const ContactUs = () => {
               Email Address
             </Title>
             <Text
+            // @ts-ignore
               align="center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
