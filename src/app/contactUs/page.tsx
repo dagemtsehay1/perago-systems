@@ -36,14 +36,14 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
-              align="center"
+              className="text-center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
             >
               Address
             </Title>
             <Text
-              align="center"
+              className="text-center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
             >
@@ -66,14 +66,14 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
-              align="center"
+              className="text-center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
             >
               Phone Number
             </Title>
             <Text
-              align="center"
+              className="text-center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
             >
@@ -95,14 +95,14 @@ const ContactUs = () => {
             </Center>
             <Title
               order={4}
-              align="center"
+              className="text-center"
               mt="md"
               style={{ fontWeight: "normal", fontSize: "1.7rem" }}
             >
               Email Address
             </Title>
             <Text
-              align="center"
+              className="text-center"
               mt="sm"
               style={{ fontWeight: "normal", fontSize: "1.1rem" }}
             >
