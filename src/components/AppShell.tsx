@@ -22,7 +22,7 @@ import peragoImage from "../assets/perago2.png";
 import peragoImage2 from "../assets/perago-white.png";
 import { useDisclosure } from "@mantine/hooks";
 
-const Shell = ({ children }) => {
+const Shell = ({ children }:any) => {
   const [opened, { toggle, close }] = useDisclosure();
 
   return (

@@ -72,10 +72,10 @@ const Services = () => {
               <Center>
                 <Image src={service.image} alt={`${service.title} icon`} width={80} height={80} />
               </Center>
-              <Title order={3} align="center" mt="md" mb="sm">
+              <Title order={3} className="text-center" mt="md" mb="sm">
                 {service.title}
               </Title>
-              <Text align="center">
+              <Text className="text-center">
                 {service.description}
               </Text>
             </Card>
@@ -102,10 +102,10 @@ const Services = () => {
               <Center>
                 <Image src={service.image} alt={`${service.title} icon`} width={80} height={80} />
               </Center>
-              <Title order={3} align="center" mt="md" mb="sm">
+              <Title order={3} className="text-center" mt="md" mb="sm">
                 {service.title}
               </Title>
-              <Text align="center">
+              <Text className="text-center">
                 {service.description}
               </Text>
             </Card>
